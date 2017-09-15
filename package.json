@@ -1,7 +1,7 @@
 {
   "name": "sort-css",
   "main": "./lib/sort-css",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sorts your CSS lines. Never gets tired.",
   "activationCommands": {
     "atom-text-editor": [
@@ -12,6 +12,5 @@
   "engines": {
     "atom": ">=1.4.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

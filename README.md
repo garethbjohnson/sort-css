@@ -4,7 +4,7 @@ Sorts your CSS property lines in Atom. Never gets tired.
 
 ### Installation
 
-???
+Clone this repository, and put it in `~/.atom/packages/`.
 
 ### Commands and Keybindings
 
@@ -14,6 +14,6 @@ If any lines are selected in the active buffer, the commands operate on the sele
 
 |Command|Description|Keybinding|
 |-------|-----------|----------|
-|`sort-css:sort`|Sorts the lines (case sensitive)|<kbd>F5</kbd>
+|`sort-css:sort`|Sorts the lines (case sensitive)|<kbd>F6</kbd>
 
 Custom keybindings can be added by referencing the above commands.  To learn more, visit the [Using Atom: Basic Customization](http://flight-manual.atom.io/using-atom/sections/basic-customization/#customizing-keybindings) or [Behind Atom: Keymaps In-Depth](http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth) sections in the flight manual.

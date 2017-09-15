@@ -9,7 +9,6 @@
     ]
   },
   "repository": "https://github.com/garethbjohnson/sort-css",
-  "license": "MIT",
   "engines": {
     "atom": ">=1.4.0 <2.0.0"
   },

@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Edit'
+    'submenu': [
+      'label': 'Lines'
+      'submenu': [
+        { 'label': 'Sort CSS', 'command': 'sort-css:sort' }
+      ]
+    ]
+  }
+]

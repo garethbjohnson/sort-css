@@ -4,7 +4,9 @@ Sorts your CSS property lines in Atom. Never gets tired.
 
 ### Installation
 
-Clone this repository, and put it in `~/.atom/packages/`.
+From within Atom: Settings -> Install -> search for "sort-css" and click "Install" OR
+
+From CLI: `apm install sort-css` and restart Atom.
 
 ### Commands and Keybindings
 

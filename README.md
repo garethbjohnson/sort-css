@@ -1,6 +1,6 @@
 # Sort CSS Package
 
-Sorts your CSS property lines in Atom. Never gets tired.
+This [Atom](https://atom.io/) package sorts CSS property lines according to [Code Guide by @mdo](http://codeguide.co/).
 
 ### Installation
 

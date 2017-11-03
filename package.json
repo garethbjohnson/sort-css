@@ -2,7 +2,7 @@
   "name": "sort-css",
   "main": "./lib/sort-css",
   "version": "0.2.0",
-  "description": "Sorts your CSS lines. Never gets tired.",
+  "description": "Sorts your CSS lines following codeguide.co",
   "activationCommands": {
     "atom-text-editor": [
       "sort-css:sort"
